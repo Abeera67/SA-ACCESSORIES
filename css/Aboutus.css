@@ -1,0 +1,37 @@
+body {
+  background-image: url("../assets/About us bg.jpg");
+  text-align: center;
+
+}
+.header-1 {
+  list-style-type: none;
+  margin-left: 40%;
+  margin-right: 40%;
+  padding-left: 20px;
+  overflow: hidden;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.heading-1{
+  color: black;
+ font-style: bold;
+}
+.nav-home {
+  color: black;
+  }
+  .nav-home:hover{
+    color: aliceblue;
+  }
+.nav-about {
+  color: black;
+} 
+.nav-about:hover {
+  color: aliceblue;
+}
+.nav-contact {
+  color: black;
+} 
+.nav-contact:hover {
+  color: aliceblue;
+}

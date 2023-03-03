@@ -1,0 +1,65 @@
+body{
+  background-color: rgb(66, 66, 66)
+ 
+}
+
+.header-1 {
+  list-style-type: none;
+  margin-left: 40%;
+  margin-right: 40%;
+  padding-left: 20px;
+  overflow: hidden;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.nav-bar{
+  text-align: center;
+}
+
+.nav-home {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  }
+
+  .nav-home:hover{
+    color: #000000;
+    text-align: center;
+  }
+
+.nav-about {
+  color: rgb(255, 255, 255);
+  text-align: center;
+} 
+
+.nav-about:hover {
+  color: #000000;
+  text-align: center;
+}
+.nav-contact {
+  color: rgb(255, 255, 255);
+  text-align: center;
+} 
+
+.nav-contact:hover {
+  color: #000000;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(255, 255, 255);
+  margin-right: 40%;
+  margin-left: 40%;
+ padding: 7px;
+ border-color: rgb(44, 44, 44);
+
+/* form {
+  display: flex;
+}
+
+input[type="text"] {
+  margin-right: 10px;
+} */
+

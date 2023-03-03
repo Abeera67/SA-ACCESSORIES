@@ -1,0 +1,35 @@
+.my-table,td,th{
+  border: 2px solid rgb(4, 4, 177);
+  border-collapse: collapse;
+  
+}
+
+.my-table{
+  width: 500px;
+  height: 100%;
+}
+
+.td,th{
+  text-align:center;
+}
+
+.table-container{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.imagestudent-1{
+background-image: url('https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Z2lybHMlMjBwaG90b3xlbnwwfHwwfHw%3D&w=1000&q=80');
+width: 100px;
+height: 100px;
+background-position: centre;
+}
+
+
+.imagestudent-2{
+  background-image: url('https://images.unsplash.com/photo-1611451444023-7fe9d86fe1d0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cG9ydHJhaXQlMjB3b21hbnxlbnwwfHwwfHw%3D&w=1000&q=80');
+  width: 100px;
+  height: 100px;
+  background-position: centre;
+}

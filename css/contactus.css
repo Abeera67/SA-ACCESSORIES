@@ -1,0 +1,68 @@
+body{
+  background-image: url("../assets/contact us bg.jpg");
+  color: antiquewhite;
+  
+}
+.header-1 {
+  list-style-type: none;
+  margin-left: 40%;
+  margin-right: 40%;
+  padding-left: 20px;
+  overflow: hidden;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.nav-bar{
+  text-align: center;
+}
+
+.nav-home {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  }
+
+  .nav-home:hover{
+    color: #000000;
+    text-align: center;
+  }
+
+.nav-about {
+  color: rgb(255, 255, 255);
+  text-align: center;
+} 
+
+.nav-about:hover {
+  color: #000000;
+  text-align: center;
+}
+.nav-contact {
+  color: rgb(255, 255, 255);
+  text-align: center;
+} 
+
+.nav-contact:hover {
+  color: #000000;
+  text-align: center;
+}
+
+.heading-1{
+  text-align: center;
+}
+
+.data-1{
+  text-align: center;
+}
+
+.para-1{
+  text-align: center;
+}
+
+.para-2{
+  text-align: center;
+}
+
+.para-3{
+  text-align: center;
+}
+
