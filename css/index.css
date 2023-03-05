@@ -97,16 +97,16 @@ body{
   margin-left: 14%;
 }
 footer {
-  background-color: #f2f2f2;
+  background-color: #000000;
   padding: 20px;
   text-align: center;
   font-size: 14px;
-  color: #777777;
+  color: #ffffff;
   margin-top: 50px;
 }
 
 .container {
-  max-width: 960px;
+  max-width: 100%;
   margin: 0 auto;
 }
 
