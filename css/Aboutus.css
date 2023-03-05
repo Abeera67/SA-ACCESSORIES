@@ -69,15 +69,15 @@ body {
   color: aliceblue;
 }
 footer {
-  background-color: #f2f2f2;
+  background-color: #000000;
   padding: 20px;
   text-align: center;
   font-size: 14px;
-  color: #777777;
+  color: #fdfdfd;
   margin-top: 50px;
 }
 
 .container {
-  max-width: 960px;
+  max-width: 100%x;
   margin: 0 auto;
 }
