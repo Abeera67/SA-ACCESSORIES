@@ -1,8 +1,45 @@
 body{
-  background-color: rgb(66, 66, 66)
- 
+  background-image: url("../assets/home page.avif");
+  background-position: no-repeat;
+  width: 100%;
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
 }
 
+.logo{
+  display: inline-block;
+  height: 150px;
+  width: 150px;
+}
+ .header-text{
+  display: inline-block;
+  text-align: center;
+  margin: 0px 0px 0px 250px;
+  color: rgb(5, 5, 5);
+  font-size: 35px;
+  padding: 10px 10px 10px 10px;
+  background-color: rgb(156, 156, 156);
+  border-radius: 8px;
+ }
+ .right button{
+  margin-top: 20px;
+    border: 2px soild rgb(199, 81, 81);
+    background-color:rgb(253, 196, 9, 0) ;
+    color: white;
+    font-size: large;
+    cursor: pointer;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+    .right{
+       position: absolute;
+       right: 34px;
+       top: 22px;
+       display: inline-block;
+      
+}
 .header-1 {
   list-style-type: none;
   margin-left: 40%;
@@ -13,53 +50,34 @@ body{
   margin-bottom: 5%;
 }
 
-.nav-bar{
-  text-align: center;
+.heading-1{
+  color:  rgb(156, 143, 143);
+  font-style: bold;
+  display: flex;
+  flex-direction: column;
+  
 }
-
+}
 .nav-home {
-  color: rgb(255, 255, 255);
-  text-align: center;
+  color: rgb(156, 143, 143);
   }
-
   .nav-home:hover{
-    color: #000000;
-    text-align: center;
+    color: rgb(0, 112, 211);
   }
-
 .nav-about {
-  color: rgb(255, 255, 255);
-  text-align: center;
+  color: rgb(156, 143, 143);
 } 
-
 .nav-about:hover {
-  color: #000000;
-  text-align: center;
+  color: rgb(0, 112, 211);
 }
 .nav-contact {
-  color: rgb(255, 255, 255);
-  text-align: center;
+  color: rgb(156, 143, 143);
 } 
-
 .nav-contact:hover {
-  color: #000000;
-  text-align: center;
+  color: rgb(0, 112, 211);
 }
 
-.container {
-  display: flex;
-  justify-content: center;
-  background-color: rgb(255, 255, 255);
-  margin-right: 40%;
-  margin-left: 40%;
- padding: 7px;
- border-color: rgb(44, 44, 44);
-
-/* form {
-  display: flex;
+.heading-category {
+ display: inline-block;
+  color: #ffffff;
 }
-
-input[type="text"] {
-  margin-right: 10px;
-} */
-
