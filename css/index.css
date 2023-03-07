@@ -39,13 +39,10 @@ body{
   display: inline-block;      
 }
 .nav{
-  margin: 1% 1% 0% 0%;
   display: flex;
-  justify-content: space-around;
-  background-color: rgb(156, 156, 156);
+   justify-content: space-around;
  align-items: center;
- border-radius: 8px;
-}
+ }
 ul{
   display: flex;
   justify-content: space-around;
