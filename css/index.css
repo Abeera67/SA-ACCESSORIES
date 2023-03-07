@@ -98,22 +98,22 @@ ul li a{
 }
 
 .nav-home {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   }
   .nav-home:hover{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
   }
 .nav-about {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 } 
 .nav-about:hover {
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
 }
 .nav-contact {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 } 
 .nav-contact:hover {
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
 }
 .heading-category {
  display: inline-block;
